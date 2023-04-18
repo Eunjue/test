@@ -5,7 +5,7 @@ int a;  //선언
   scanf("%d", &a);  //a에 저장
 
   if(a%2==0) {
-    printf("it's a even number");
+    printf("it's a even number");  //= ->대입, == -> e
   }
   else
     printf("that's a odd number");
